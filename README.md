@@ -1,6 +1,5 @@
 # Movie-Recommendation
-Design a model which will able to recommend genres of movies and choice actors based on users previously searched and watch movies
-Four methods have been adopted in recommending movies which are Content-based Filtering,Collaborative Filtering, User-based Collaborative Filtering, and Item based Collaborative Filtering.
+Design a model which will able to recommend genres of movies and choice actors based on users previously searched and watch movies.Four methods have been adopted in recommending movies which are Content-based Filtering,Collaborative Filtering, User-based Collaborative Filtering, and Item based Collaborative Filtering.
 
 **Content-based Filtering**- Recommends movies based on a user's past seen movies, ratings and reviews.
 
